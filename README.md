@@ -2,7 +2,7 @@
 <br>
 <img src="https://i.ibb.co/YT9dBw6/programmer-gb71e2beea-1920.jpg" alt="Emil Alejandro, web developer">
 <br>
-<h2>-->Manejo de Tecnologias<--</h2>
+<h2>-->Technologies<--</h2>
 <h2>FRONTEND</h2>
 
 ❉HTML <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" style="height:20px;">     
